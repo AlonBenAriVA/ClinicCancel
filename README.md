@@ -1,2 +1,2 @@
 # ClinicCancel
-Sara Brass application to monitor clinic cancellations
+Sara Brass's application to monitor clinic cancellations
